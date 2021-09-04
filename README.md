@@ -3,7 +3,7 @@ Live Preview - [Click Here](https://gportfolio.vercel.app)
 
 <br/>
 <div align="center">
-  <img alt="Demo" src="public/desktop.png" />
+  <img alt="Demo" src="public/mockup.png" />
 </div>
 <br/>
 <br/>
@@ -21,7 +21,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 # Usage Instructions
 
-Open the project folder and Navigate to `/src/data/ProjectData` and add your projects details and social media links.
+Open the project folder and Navigate to `/src/data/ProjectData` and add your projects details.
 
 You will find all the components used and you can edit your information accordingly.
 
