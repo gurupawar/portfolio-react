@@ -1,21 +1,11 @@
 import "./App.css";
-import Hero from "./components/Hero/Hero";
-import Projects from "./components/Projects/Projects";
-import About from "./components/About/About";
-import Contact from "./components/Contact/Contact";
 import { BrowserRouter as Router } from "react-router-dom";
-import Footer from "./components/Footer/Footer";
-import FixSocialIcon from "./components/SocialIcon/FixSocialIcon";
+import Home from "./pages/Home";
 
 function App() {
   return (
     <Router>
-      <Hero />
-      <Projects />
-      <About />
-      <Contact />
-      <Footer />
-      <FixSocialIcon />
+      <Home />
     </Router>
   );
 }
