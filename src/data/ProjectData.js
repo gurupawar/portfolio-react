@@ -21,9 +21,9 @@ export const ProjectList = [
     img: "https://gurupawar.github.io/portfolio/assets/portfolio.png",
     title: "Portfolio",
     description: "Ofcourse i made my own personal portfolio website.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://github.com/gurupawar/portfolio",
-    demo_url: "https://gurupawar.github.io/portfolio/",
+    tech_stack: "Reactjs, Css",
+    github_url: "https://github.com/gurupawar/portfolio-react",
+    demo_url: "https://gportfolio.vercel.app/",
   },
   {
     img: "https://gurupawar.github.io/portfolio/assets/project_3.png",

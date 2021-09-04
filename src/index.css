@@ -16,7 +16,7 @@ body {
 }
 
 main {
-  background: var(--backgroud);
+  background: #151418;
   background-image: url(https://raw.githubusercontent.com/gurupawar/portfolio/main/assets/blob-haikei.svg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -111,6 +111,8 @@ video {
   flex-direction: column;
   background: #fff;
   box-shadow: rgba(0, 0, 0, 0.05) 0px 5px 10px;
+  /* box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05); */
 }
 
 .AboutBio,
@@ -134,7 +136,7 @@ video {
   margin-bottom: 3.5rem;
 }
 .ProjectWrapper {
-  margin-top: 5rem;
+  margin-top: -1rem;
 }
 
 /* ------------------------------------ Media for Container */
@@ -146,6 +148,9 @@ video {
 @media (min-width: 768px) {
   .Container {
     max-width: 720px;
+  }
+  .ProjectWrapper {
+    margin-top: -5rem;
   }
 }
 @media (min-width: 992px) {
