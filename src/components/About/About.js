@@ -30,7 +30,7 @@ function About() {
           </div>
           <Technologies>
             {stackList.map((stack, index) => (
-              <Tech key={index}>
+              <Tech key={index} className="tech">
                 <TechImg src={stack.img} alt={stack.name} />
                 <TechName>{stack.name}</TechName>
               </Tech>
