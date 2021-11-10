@@ -1,38 +1,39 @@
 // --------------------------------------- Project List
+const basePathImg = 'https://raw.githubusercontent.com/sehmbimanvir/sehmbimanvir/master/assets/images'
 export const ProjectList = [
   {
-    img: "https://gurupawar.github.io/portfolio/assets/project_1.png",
-    title: "Spense",
-    description: "Codewell challenge, Spense is a landing page for writers.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://github.com/gurupawar/spense",
-    demo_url: "https://gurupawar.github.io/spense/",
+    img: `${basePathImg}/torrentz.jpg`,
+    title: "Torrent Search Engine",
+    description: "A simple torrent search engine which crawls various torrent websites and gives you the results.",
+    tech_stack: "ReactJS, NodeJs",
+    github_url: "https://github.com/sehmbimanvir/torrent-search-engine",
+    demo_url: "https://torrents.manvir.dev",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/project_2.png",
-    title: "Fiber",
+    img: `${basePathImg}/vuejstodoapp.jpg`,
+    title: "ToDo Application",
     description:
-      "An online portfolio generator. Great to practice flex/grid layouts, absolute positioning and sliders.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://github.com/gurupawar/fiber",
-    demo_url: "https://gurupawar.github.io/fiber/",
+      "Single page Todo Application with Localstorage.",
+    tech_stack: "VueJS",
+    github_url: "https://github.com/sehmbimanvir/vue-todo-app",
+    demo_url: "https://vue-todo-app.manvir.dev/",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/portfolio.png",
-    title: "Portfolio",
-    description: "Ofcourse i made my own personal portfolio website.",
-    tech_stack: "Reactjs, Css",
-    github_url: "https://github.com/gurupawar/portfolio-react",
-    demo_url: "https://gportfolio.vercel.app/",
+    img: `${basePathImg}/instadl.jpg`,
+    title: "Instagram Downloader",
+    description: "A web application to download Instagram posts, reels and videos",
+    tech_stack: "ReactJS, Nodejs, Next.js",
+    github_url: "https://github.com/sehmbimanvir/instagram-downloader",
+    demo_url: "https://instadl.manvir.dev/",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/project_3.png",
-    title: "Ecommerce website",
+    img: `${basePathImg}/githubbattle.jpg`,
+    title: "Github Battle App",
     description:
-      "Created simple ecommerce website using reactjs and react-use-cart plugin.",
-    tech_stack: "Reactjs, Css",
-    github_url: "https://github.com/gurupawar/ecommerce-react-app",
-    demo_url: "https://ecommerce-react-app.vercel.app/",
+      "A simple web application to list popular repositories and to play a game between two github users.",
+    tech_stack: "ReactJS",
+    github_url: "https://github.com/sehmbimanvir/github-battle-app",
+    demo_url: "https://github-battle.manvir.dev/",
   },
 ];
 
@@ -40,31 +41,47 @@ export const ProjectList = [
 
 export const stackList = [
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/html5.svg",
+    img: "https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/html-5.svg",
     name: "HTML",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/css3.svg",
+    img: "https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/css-3.svg",
     name: "CSS",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/javascript.svg",
+    img: "https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/javascript.svg",
     name: "JavaScript",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/bootstrap.svg",
+    img: "https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/bootstrap.svg",
     name: "Bootstrap",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/sass.svg",
+    img: "https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/sass.svg",
     name: "Scss",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/git.svg",
+    img: "https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/git.svg",
     name: "Git",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/responsive.svg",
-    name: "Responsive",
+    img: "https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/es6.svg",
+    name: "ES6",
+  },
+  {
+    img: "https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/react.svg",
+    name: "React",
+  },
+  {
+    img: "https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/vue.svg",
+    name: "Vue",
+  },
+  {
+    img: "https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/nodejs-icon.svg",
+    name: "Node",
+  },
+  {
+    img: "https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/laravel.svg",
+    name: "Laravel",
   },
 ];

@@ -15,15 +15,13 @@ function About() {
         <div className="SectionTitle">About Me</div>
         <div className="BigCard">
           <Image
-            src="https://gurupawar.github.io/portfolio/assets/man-svgrepo-com.svg"
+            src="https://raw.githubusercontent.com/sehmbimanvir/sehmbimanvir/master/assets/images/man-svgrepo-com.svg"
             alt="man-svgrepo"
           />
           <div className="AboutBio">
-            Hello! My name is <strong>Gurushesh Pawar</strong> and I enjoy
+            Hello! My name is <strong>Manvir Singh</strong> and I enjoy
             creating things that live on the internet. My interest in web
-            development started back in 2014 when I decided to try editing
-            custom Blogger themes — redesigning & modifying blogger themes
-            taught me a lot about HTML & CSS!
+            development started back in college when I was pursuing my graduation.
           </div>
           <div className="AboutBio tagline2">
             I have become confident using the following technologies.

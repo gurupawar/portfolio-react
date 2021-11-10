@@ -23,15 +23,15 @@ function Hero() {
       <HeroContainer>
         <HeroWrapper>
           <HeroLeft>
-            <h1>Hi, I'm Gurushesh</h1>
-            <h5>Frontend Developer</h5>
+            <h1>Hi, I'm Manvir Singh</h1>
+            <h5>Full Stack Developer</h5>
             <p>
-              I design and code beautifully simple things, and I love what I do.
+            Full Stack developer with React, Vue as Front End and NodeJs, Laravel as Backend. I like to create scripts, tweaks to make things easier.
             </p>
           </HeroLeft>
           <HeroRight>
             <Image
-              src="https://gurupawar.github.io/portfolio/assets/man-svgrepo-com.svg"
+              src="https://raw.githubusercontent.com/sehmbimanvir/sehmbimanvir/master/assets/images/man-svgrepo-com.svg"
               alt="man-svgrepo"
             />
           </HeroRight>
