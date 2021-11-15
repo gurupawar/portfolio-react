@@ -26,7 +26,7 @@ function Footer() {
         <span>
           Coded with 💙 by{" "}
           <a
-            href="https://github.com/gurupawar//"
+            href="https://github.com/gurupawar/"
             target="_blank"
             rel="noopener noreferrer"
           >

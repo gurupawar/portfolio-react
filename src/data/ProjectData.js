@@ -5,8 +5,8 @@ export const ProjectList = [
     title: "Spense",
     description: "Codewell challenge, Spense is a landing page for writers.",
     tech_stack: "Html, Css, Javascript",
-    github_url: "https://github.com/gurupawar/spense",
-    demo_url: "https://gurupawar.github.io/spense/",
+    github_url: "https://your_project_github_link",
+    demo_url: "https://your_project_demo_link",
   },
   {
     img: "https://gurupawar.github.io/portfolio/assets/project_2.png",
@@ -14,16 +14,16 @@ export const ProjectList = [
     description:
       "An online portfolio generator. Great to practice flex/grid layouts, absolute positioning and sliders.",
     tech_stack: "Html, Css, Javascript",
-    github_url: "https://github.com/gurupawar/fiber",
-    demo_url: "https://gurupawar.github.io/fiber/",
+    github_url: "https://your_project_github_link",
+    demo_url: "https://your_project_demo_link",
   },
   {
     img: "https://gurupawar.github.io/portfolio/assets/portfolio.png",
     title: "Portfolio",
     description: "Ofcourse i made my own personal portfolio website.",
     tech_stack: "Reactjs, Css",
-    github_url: "https://github.com/gurupawar/portfolio-react",
-    demo_url: "https://gportfolio.vercel.app/",
+    github_url: "https://your_project_github_link",
+    demo_url: "https://your_project_demo_link/",
   },
   {
     img: "https://gurupawar.github.io/portfolio/assets/project_3.png",
@@ -31,8 +31,8 @@ export const ProjectList = [
     description:
       "Created simple ecommerce website using reactjs and react-use-cart plugin.",
     tech_stack: "Reactjs, Css",
-    github_url: "https://github.com/gurupawar/ecommerce-react-app",
-    demo_url: "https://ecommerce-react-app.vercel.app/",
+    github_url: "https://your_project_github_link",
+    demo_url: "https://your_project_demo_link",
   },
 ];
 

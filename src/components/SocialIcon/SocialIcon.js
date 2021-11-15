@@ -37,7 +37,7 @@ function SocialIcon() {
       <ul>
         <li className="item">
           <a
-            href="https://www.linkedin.com/in/gurusheshp/"
+            href="https://www.linkedin.com/in/your_username/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -46,7 +46,7 @@ function SocialIcon() {
         </li>
         <li className="item">
           <a
-            href="https://github.com/gurupawar/"
+            href="https://github.com/your_username/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -55,7 +55,7 @@ function SocialIcon() {
         </li>
         <li className="item">
           <a
-            href="https://github.com/gurupawar/"
+            href="https://github.com/your_username/"
             target="_blank"
             rel="noopener noreferrer"
           >
