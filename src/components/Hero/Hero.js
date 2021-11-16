@@ -31,7 +31,7 @@ function Hero() {
           </HeroLeft>
           <HeroRight>
             <Image
-              src="https://gurupawar.github.io/portfolio/assets/man-svgrepo-com.svg"
+              src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/man-svgrepo-com.svg"
               alt="man-svgrepo"
             />
           </HeroRight>
@@ -40,7 +40,7 @@ function Hero() {
           <ScrollLink>
             Scroll down
             <img
-              src="https://raw.githubusercontent.com/gurupawar/portfolio/main/assets/scroll-down.svg"
+              src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/scroll-down.svg"
               alt="scroll-down"
             />
           </ScrollLink>
