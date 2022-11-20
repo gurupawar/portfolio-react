@@ -1,12 +1,12 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_1.png",
-    title: "Spense",
-    description: "Codewell challenge, Spense is a landing page for writers.",
-    tech_stack: "Html, Css, Javascript",
+    img: "https://github.com/soufianesejjari/portfolio-react/blob/master/src/data/qualite.png?raw=true",
+    title: "Qualite Evaluation",
+    description: "decision-Model for the evaluation of the quality of public services",
+    tech_stack: "Forms, spss, Python",
     github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+    demo_url: "https://github.com/soufianesejjari/ProjetJupyter/blob/main/dataanalyse_etudian_python.ipynb",
   },
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_2.png",
@@ -40,35 +40,35 @@ export const ProjectList = [
 
 export const stackList = [
   {
-    img: "/workspaces/portfolio-react/src/data/visua.jpg",
+    img: "https://github.com/soufianesejjari/portfolio-react/blob/master/src/data/visua.jpg?raw=true",
     name: "Data Visualization",
   },
   {
-    img: "https://github.com/gurupawar/portfolio-react/blob/master/src/data/etl.png",
+    img: "https://github.com/soufianesejjari/portfolio-react/blob/master/src/data/etl.png?raw=true",
     name: "Data Cleaning",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/javascript.svg",
-    name: "JavaScript",
+    img: "https://github.com/soufianesejjari/portfolio-react/blob/master/src/data/python.png?raw=true",
+    name: "Python",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/react.svg",
-    name: "ReactJS",
+    img: "https://github.com/soufianesejjari/portfolio-react/blob/master/src/data/r.png?raw=true",
+    name: "R",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/bootstrap.svg",
-    name: "Bootstrap",
+    img: "https://github.com/soufianesejjari/portfolio-react/blob/master/src/data/sql.png?raw=true",
+    name: "SQL & NoSql",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/sass.svg",
-    name: "Scss",
+    img: "https://github.com/soufianesejjari/portfolio-react/blob/master/src/data/st.jpg?raw=true",
+    name: "Advanced Statistics",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/git.svg",
-    name: "Git",
+    img: "https://github.com/soufianesejjari/portfolio-react/blob/master/src/data/ml.png?raw=true",
+    name: "Machine Learning",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/responsive.svg",
-    name: "Responsive",
+    img: "https://github.com/soufianesejjari/portfolio-react/blob/master/src/data/power.png?raw=true",
+    name: "PowerBi",
   },
 ];
