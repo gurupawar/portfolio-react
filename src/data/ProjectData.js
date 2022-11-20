@@ -40,12 +40,12 @@ export const ProjectList = [
 
 export const stackList = [
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/html5.svg",
-    name: "HTML",
+    img: "/workspaces/portfolio-react/src/data/visua.jpg",
+    name: "Data Visualization",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/css3.svg",
-    name: "CSS",
+    img: "https://github.com/gurupawar/portfolio-react/blob/master/src/data/etl.png",
+    name: "Data Cleaning",
   },
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/javascript.svg",
