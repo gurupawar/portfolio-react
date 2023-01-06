@@ -1,38 +1,30 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://github.com/soufianesejjari/portfolio-react/blob/master/src/data/qualite.png?raw=true",
-    title: "Qualite Evaluation",
-    description: "decision-Model for the evaluation of the quality of public services",
-    tech_stack: "Forms, spss, Python",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://github.com/soufianesejjari/ProjetJupyter/blob/main/dataanalyse_etudian_python.ipynb",
-  },
-  {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_2.png",
-    title: "Fiber",
+    img: "https://github.com/soufianesejjari/covInfo/blob/master/covInfo.png?raw=true",
+    title: "COVID-19 Awareness and Statistics Android App",
     description:
-      "An online portfolio generator. Great to practice flex/grid layouts, absolute positioning and sliders.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+      "An Android app that helps people understand COVID-19 in Morocco by providing real-time statistics and information about vaccines, as well as a machine learning model that predicts the risk of infection.",
+    tech_stack: "Kotlin, Android API, Python, Scala, machine learning algorithms",
+    github_url: "https://github.com/soufianesejjari/covInfo",
+    demo_url: "https://github.com/soufianesejjari/covInfo/tree/master/demo",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/portfolio.png",
-    title: "Portfolio",
-    description: "Ofcourse i made my own personal portfolio website.",
-    tech_stack: "Reactjs, Css",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link/",
+    img: "https://github.com/soufianesejjari/datawarehouse_projet/blob/main/ImageResult/image1.png?raw=true",
+    title: "Data Visualization with Power BI and MySQL",
+    description: "A project that showcases my ability to extract, transform and load data from an OLTP database to an OLAP database, and to create visually appealing and informative dashboards with Power BI.",
+    tech_stack: "Power BI, MySQL, ETL process",
+    github_url: "https://github.com/soufianesejjari/datawarehouse_projet",
+    demo_url: "https://github.com/soufianesejjari/datawarehouse_projet#readme",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_3.png",
-    title: "Ecommerce website",
+    img: "https://github.com/soufianesejjari/stageCommuneProjet/blob/main/images_pdf/web1.png?raw=true",
+    title: "Data Visualization and Analysis Project",
     description:
-      "Created simple ecommerce website using reactjs and react-use-cart plugin.",
-    tech_stack: "Reactjs, Css",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+      "This project involves the use of various tools and technologies to visualize and analyze data for a specific business or research question.",
+    tech_stack: " Python, SPSS, Talend, Streamlit, API",
+    github_url: "https://github.com/soufianesejjari/stageCommuneProjet",
+    demo_url: "https://github.com/soufianesejjari/stageCommuneProjet/blob/main/images_pdf/soufiane%20sejjari%20rapport%20(1).pdf",
   },
 ];
 
